@@ -470,8 +470,8 @@ html,body{
 }
 .next-key button:hover{
     background-color: white;
-    color: black;
     background-position: left;
+    color: black;
     transition: ease-in .5s;
 }
 #ai-android{
