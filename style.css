@@ -535,7 +535,6 @@ html,body{
 }
 #ai-feature1 img{
     width: 100%;
-    height: 300px;
     margin-top: 50px;
 }
 
@@ -568,7 +567,6 @@ html,body{
 }
 #ai-feature2 img{
     width: 100%;
-    height: 305px;
     margin-top: 50px;
     border-radius: 20px;
 }
@@ -601,7 +599,6 @@ html,body{
 }
 #ai-feature3 img{
     width: 100%;
-    height: 305px;
     margin-top: 50px;
     border-radius: 20px;
 }
