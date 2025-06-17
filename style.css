@@ -167,7 +167,6 @@ html,body{
 }
 #product1{
     width: 350px;
-    height: 350px;
     text-align: center;
     background-color:rgb(255, 241, 240);
     border-radius: 30px;
@@ -211,7 +210,6 @@ html,body{
 
 #product2{
     width: 350px;
-    height: 350px;
     text-align: center;
     background-color:rgb(230, 235, 235);
     border-radius: 30px;
@@ -254,7 +252,6 @@ html,body{
 
 #product3{
     width: 350px;
-    height: 350px;
     text-align: center;
     background-color:rgb(211, 240, 247);
     border-radius: 30px;
@@ -316,7 +313,6 @@ html,body{
 }
 #product4{
     width: 450px;
-    height: 350px;
     text-align: center;
     background-color:rgba(167, 182, 185, 0.537);
     border-radius: 30px;
@@ -358,7 +354,6 @@ html,body{
 }
 #product5{
     width: 300px;
-    height: 350px;
     text-align: center;
     background-color:rgba(199, 243, 241, 0.537);
     border-radius: 30px;
@@ -402,7 +397,6 @@ html,body{
 
 #product6{
     width: 300px;
-    height: 350px;
     text-align: center;
     background-color:rgba(80, 93, 96, 0.495);
     border-radius: 30px;
@@ -434,7 +428,7 @@ html,body{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     border-radius: 30px;
     transition: all cubic-bezier(0.175, 0.885, 0.32, 1.275).5s;
-    background-color:rgba(80, 93, 96, 0.415);
+    background-color:rgba(80, 93, 96, 0.495);
     margin-top: 25px;
 }
 #product6 button:hover{
@@ -511,7 +505,6 @@ html,body{
 }
 #ai-feature1{
     width: 350px;
-    height: 550px;
     padding: 30px 30px;
     background-color: black;
     color: white;
@@ -549,7 +542,6 @@ html,body{
 
 #ai-feature2{
     width: 350px;
-    height: 550px;
     padding: 30px 30px;
     background-color: rgba(242, 234, 234, 0.493);
     border-radius: 20px;
@@ -582,7 +574,6 @@ html,body{
 }
 #ai-feature3{
     width: 350px;
-    height: 550px;
     padding: 30px 30px;
     background-color: rgb(254, 245, 245);
     border-radius: 20px;
