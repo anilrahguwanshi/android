@@ -1,6 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     box-sizing: border-box;
 }
 html,body{
@@ -10,8 +11,6 @@ html,body{
 #main{
     width: 100%;
     height: 100%;
-    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-
 }
 
 #nav{
@@ -41,10 +40,9 @@ html,body{
     font: 100 25px/1 FontAwesome;
     margin-left: 70px;
 }
-.rnav button {
-    font-size: 18px;
+.rnav button{
+    font-size: 16px;
     font-weight: 500;
-    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     padding: 10px 20px;
     border-radius: 30px;
     background: linear-gradient(90deg, white 50%, black 50%);
@@ -55,7 +53,6 @@ html,body{
 
 }
 .rnav button a {
-    color: white;
     text-decoration: none;
 }
 .rnav button i{
@@ -76,7 +73,6 @@ html,body{
     padding: 8px 25px;
     font-size: 18px;
     font-weight: 500;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     border-radius: 10px;
     background-color: rgb(213, 233, 209);
     border: none;
@@ -96,7 +92,6 @@ html,body{
     padding: 15px 25px;
     font-size: 20px;
     font-weight: 500;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     border-radius: 30px;
     background-color: rgb(207, 240, 255);
     border: none;
@@ -133,7 +128,6 @@ html,body{
 .features button{
     padding: 8px 20px;
     font-size: 18px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 500;
     margin-top: 15px;
     margin-left: 50%;
@@ -199,7 +193,6 @@ html,body{
     padding: 10px 25px;
     font-size: 18px;
     font-weight: 500;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     border-radius: 30px;
     transition: all cubic-bezier(0.175, 0.885, 0.32, 1.275).5s;
     background-color:rgb(255, 241, 240);
@@ -242,7 +235,6 @@ html,body{
     padding: 10px 25px;
     font-size: 18px;
     font-weight: 500;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     border-radius: 30px;
     transition: all cubic-bezier(0.175, 0.885, 0.32, 1.275).5s;
     background-color:rgb(230, 235, 235);
@@ -284,7 +276,6 @@ html,body{
     padding: 10px 25px;
     font-size: 18px;
     font-weight: 500;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     border-radius: 30px;
     transition: all cubic-bezier(0.175, 0.885, 0.32, 1.275).5s;
     background-color:rgb(211, 240, 247);
@@ -345,7 +336,6 @@ html,body{
     padding: 10px 25px;
     font-size: 18px;
     font-weight: 500;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     border-radius: 30px;
     transition: all cubic-bezier(0.175, 0.885, 0.32, 1.275).5s;
     background-color:rgba(167, 182, 185, 0.537);
@@ -386,7 +376,6 @@ html,body{
     padding: 10px 25px;
     font-size: 18px;
     font-weight: 500;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     border-radius: 30px;
     transition: all cubic-bezier(0.175, 0.885, 0.32, 1.275).5s;
     background-color:rgba(199, 243, 241, 0.537);
@@ -429,7 +418,6 @@ html,body{
     padding: 10px 25px;
     font-size: 18px;
     font-weight: 500;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     border-radius: 30px;
     transition: all cubic-bezier(0.175, 0.885, 0.32, 1.275).5s;
     background-color:rgba(80, 93, 96, 0.495);
@@ -457,7 +445,6 @@ html,body{
     justify-content: center;
     padding: 10px 20px;
     font-weight: 500;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 18px;
     background: linear-gradient(90deg, white 50%, black 50%);
     background-size: 200% 100%;
@@ -488,7 +475,6 @@ html,body{
 .ai-key button{
     padding: 10px 20px;
     font-size: 15px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 500;
     border-radius: 30px;
     background-color: rgba(124, 213, 255, 0.364);
@@ -525,7 +511,6 @@ html,body{
     padding: 10px 20px;
     margin-top: 20px;
     font-weight: 500;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 15px;
     color: white;
     background-color: black;
@@ -560,7 +545,6 @@ html,body{
     padding: 10px 20px;
     margin-top: 20px;
     font-weight: 500;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 15px;
     border-radius: 30px;
     border: 1px solid black;
@@ -591,7 +575,6 @@ html,body{
     padding: 10px 20px;
     margin-top: 20px;
     font-weight: 500;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 15px;
     border-radius: 30px;
     background-color: rgb(254, 245, 245);
